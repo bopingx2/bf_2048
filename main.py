@@ -1,7 +1,7 @@
 import pygame
 from pygame.locals import *
 
-# Inport logic from utils
+# Import logic from utils
 from utils import play
 
 if __name__ == "__main__" :
